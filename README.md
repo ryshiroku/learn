@@ -1,24 +1,2 @@
-# learn
-# 我忘了空格？
-# 233333？
-##### 好玩啊
-- 艾米莉
-1. 没反应？
-
-[osu官网](http://osu.ppy.sh)
-
-![](https://pbs.twimg.com/media/B6g7CWICUAE4hYT.jpg)
-
->*GoHands*原创动画《K》中人物。相貌清秀，穿着长风衣、白色的皮革休闲鞋，有着黑色泛蓝的长发、修长的身形，**武器是一把武士刀——「理」 。**
-已故第七王权者三轮一言的臣子。奉亡主遗命来到伊佐那社身边，判断其善恶。对三轮一言相当崇敬，并经常听其的录音
-
-`kuroniu`
-
-```
-kuroinu
-neko
-```
-
-|players   |pp       |acc  |
-|----------|:-------:|-----|
-|1231232   |123123   |44   |
+#Extra cellular digestion
+>Extra cellular digestion is the way microbe organisms feed to gain energy. Microbes inculde non-autotrophic bacterias and Fungi. They first release enzymes onto the food particles, then the enzymes break down the food into absorable particles, then the microbe organisms absorb the food particles back into themselves to gain energy.
